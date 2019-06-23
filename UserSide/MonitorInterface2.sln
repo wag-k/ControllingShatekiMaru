@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MonitorInterface2", "MonitorInterface2\MonitorInterface2.vcxproj", "{48DB4D79-E5E8-4CAF-80B0-34E2063EC93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DB4D79-E5E8-4CAF-80B0-34E2063EC93D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48DB4D79-E5E8-4CAF-80B0-34E2063EC93D}.Debug|Win32.Build.0 = Debug|Win32
+		{48DB4D79-E5E8-4CAF-80B0-34E2063EC93D}.Release|Win32.ActiveCfg = Release|Win32
+		{48DB4D79-E5E8-4CAF-80B0-34E2063EC93D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
